@@ -1,0 +1,77 @@
+body{
+  background-color: black;
+}
+
+
+main{
+  margin: auto;
+  width: 400px;
+  height: 500px;
+  background-color: black;
+  border-radius: 20px 0px 20px 0px;
+  margin-top: 150px;
+  border: solid deepskyblue;
+  box-shadow: 0 0 20px deepskyblue;
+}
+
+
+.title{
+  color: deepskyblue;
+  margin: auto;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+  text-shadow: 0 0 10px deepskyblue;
+ }
+ 
+ 
+ .inputs{
+   text-align: center;
+   padding-top: 80px;
+ }
+ 
+ .email{
+   color: white;
+   background: transparent;
+   padding: 20px;
+   border-radius: 20px 0px 20px 0px;
+   border: solid deepskyblue;
+   box-shadow: 0 0 15px deepskyblue;
+ }
+ 
+ .senha{
+   margin-top: 25px;
+   color: white;
+   background: transparent;
+   padding: 20px;
+   border-radius: 20px 0px 20px 0px;
+   border: solid deepskyblue;
+   box-shadow: 0 0 15px deepskyblue;
+ }
+ 
+ .esqueceu,a{
+   text-align: center;
+   margin-top: 10px;
+   text-decoration: inline;
+   color: deepskyblue;
+   font-size: 13px;
+ }
+ 
+ .botao{
+   text-align: center;
+   margin-top: 30px;
+ }
+ 
+ button{
+   color: white;
+   background: transparent;
+   padding: 10px 40px;
+   border: solid deepskyblue;
+   font-size: 15px;
+   border-radius: 10px;
+ }
+ 
+ button:active{
+   box-shadow: 0 0 10px deepskyblue,inset 0 0 40px deepskyblue;
+ }
+ 
